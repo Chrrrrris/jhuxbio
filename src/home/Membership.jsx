@@ -38,7 +38,7 @@ export default function Membership() {
     {/* Right Column: Image */}
     <div className="w-full md:w-1/2">
         <img
-          src="/assets/lecture.jpg" // or your own membership-related image
+          src="/assets/lecture.jpg" 
           alt="Lab"
           className="w-full object-cover"
         />

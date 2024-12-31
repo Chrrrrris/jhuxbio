@@ -6,7 +6,7 @@ export default function About() {
       {/* IMAGE COLUMN */}
       <div className="w-full md:w-1/2">
         <img
-          src="/assets/lab.jpg"  // Replace with your actual image path
+          src="/assets/lab.jpg"  
           alt="Microscope in lab"
           className="w-full object-cover"
         />

@@ -4,22 +4,27 @@ const teamMembers = [
   {
     name: "Maryam",
     position: "President",
-    img: "/assets/john.jpg", // Replace with the actual image path
+    img: "/assets/maryam.jpg", // 
   },
   {
-    name: "Jane Smith",
+    name: "Gates",
     position: "Vice President",
-    img: "/assets/jane.jpg", // Replace with the actual image path
+    img: "/assets/gates.jpg", // 
   },
   {
-    name: "Sam Johnson",
-    position: "Secretary",
-    img: "/assets/sam.jpg", // Replace with the actual image path
+    name: "William",
+    position: "blabla",
+    img: "/assets/william.jpg", //
   },
   {
-    name: "Emily Brown",
-    position: "Treasurer",
-    img: "/assets/emily.jpg", // Replace with the actual image path
+    name: "Chris",
+    position: "Tech",
+    img: "/assets/chris.jpg", // 
+  },
+  {
+    name: "Joey",
+    position: "Tech",
+    img: "/assets/joey.jpg", // 
   },
 ];
 

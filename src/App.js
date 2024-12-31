@@ -11,7 +11,7 @@ import Membership from "./home/Membership";
 import Events from "./home/Events";
 import Contact from "./home/Contact";
 
-/* Separate Team Page */
+/* Separate Team and Gallery Page */
 import Team from "./team/Team";
 import Gallery from "./gallery/Gallery";
 
@@ -38,7 +38,7 @@ function App() {
 
           {/* Team Page */}
           <Route path="/team" element={<Team />} />
-          {/* Team Page */}
+          {/* Gallery Page */}
           <Route path="/gallery" element={<Gallery />} />
         </Routes>
         <Footer />

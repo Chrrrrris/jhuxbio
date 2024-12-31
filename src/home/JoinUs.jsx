@@ -19,7 +19,7 @@ export default function JoinUsSectionWhite() {
         {/* Button or additional text/forms as needed */}
         <div className="mb-8">
           <a
-            href="https://forms.gle/your-form-link" // Replace with your actual form link
+            href="https://forms.gle/your-form-link" // TODO: Replace with actual form link
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold text-lg md:text-2xl  py-3 px-6 rounded transition duration-300 leading-relaxed mb-4"

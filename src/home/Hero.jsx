@@ -7,7 +7,7 @@ export default function Hero({ id }) {
       id={id}
       className="relative w-full h-screen bg-cover bg-center flex items-center justify-center"
       style={{
-        backgroundImage: 'url("/assets/DNA.gif")', // Path to your GIF
+        backgroundImage: 'url("/assets/DNA.gif")',
         backgroundSize: "cover", // Ensures the GIF covers the entire area
         backgroundPosition: "center", // Centers the GIF
         backgroundRepeat: "no-repeat", // Prevents tiling
